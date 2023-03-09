@@ -11,4 +11,11 @@
 - C++ Pointer Programs
 
 ### Then some OOPs Concepts also.
- - object, class, abstraction, encapsulation, inheritance, polymorphism
+ - Object
+ - Class
+ - Abstraction
+ - Encapsulation
+ - Enheritance
+ - Polymorphism
+
+### Then some STL Concepts.
